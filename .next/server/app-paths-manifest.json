@@ -1,4 +1,5 @@
 {
+  "/api/company/new-user/route": "app/api/company/new-user/route.js",
   "/favicon.ico/route": "app/favicon.ico/route.js",
   "/(dashboard)/page": "app/(dashboard)/page.js"
 }

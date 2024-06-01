@@ -1,4 +1,4 @@
-// File: C:\Users\vems\Documents\Web Programing\dashboard-job\src\app\(dashboard)\layout.tsx
+// File: C:\Users\vems\Documents\Web Programing\dashboard-job-hunt\src\app\(dashboard)\layout.tsx
 import * as entry from '../../../../src/app/(dashboard)/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
